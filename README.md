@@ -8,3 +8,4 @@
 # Chapter 3 
 * [Comparator java](https://github.com/RRoggia/segredos-ninja-javascript/blob/82888ba91e2670c4a2933fdccc31715ca1a7a3b3/chapter3/Comparator.java)
 * [Comparator js](https://github.com/RRoggia/segredos-ninja-javascript/blob/82888ba91e2670c4a2933fdccc31715ca1a7a3b3/chapter3/Comparator.html)
+* [Declarations](https://github.com/RRoggia/segredos-ninja-javascript/blob/401257832865e4276838bd813fe1e60d89ef0df7/chapter3/Declarations.html)
