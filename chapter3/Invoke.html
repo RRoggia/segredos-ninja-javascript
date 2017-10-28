@@ -42,7 +42,24 @@
 			assert(ninja3.skulk() === ninja3, "The 3rd ninja is skulking");
 			assert(ninja4.skulk() === ninja4, "The 4th ninja is skulking");
 
+			assert(true, "Call and Aplly");
 
+			function juggle(){
+				var result = 0;
+				for (var i = 0; i < arguments.length; i++) {
+					result += arguments[i];
+				}
+				this.result = result;
+			}
+
+			var ninja5 = {};
+			var ninja6 = {};
+
+			juggle.apply(ninja5, [1, 2, 3, 4]);
+			juggle.call(ninja6, 5, 6, 7, 8);
+
+			assert(ninja5.result === 10, "juggled via apply");
+			assert(ninja6.result === 26, "juggled via call");
 
 		};
 
