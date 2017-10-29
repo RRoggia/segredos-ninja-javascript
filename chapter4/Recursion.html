@@ -25,8 +25,8 @@
 
 			assert(true, "Recursion with object");
 			var ninja = {
-				chirp: function(n) {
-					return n > 1 ? this.chirp(n - 1) + "-chirp" : "chirp";
+				chirp: function signal(n) {
+					return n > 1 ? signal(n - 1) + "-chirp" : "chirp";
 				}
 			}
 			assert(ninja.chirp(3) === "chirp-chirp-chirp", "An object property isn't too confusing, either.")
