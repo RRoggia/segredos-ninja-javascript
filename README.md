@@ -20,3 +20,5 @@
 * [Recursion with functions and objects](https://github.com/RRoggia/segredos-ninja-javascript/blob/f7b9f71f5707d554ebd38ba1c489d7d89b1b2771/chapter4/Recursion.html)
 * [Recursion for objects](https://github.com/RRoggia/segredos-ninja-javascript/blob/a2b09b6564a6477730436ad7492403ad864a9ce2/chapter4/Recursion.html)
 * [Recursion with Embedded Function](https://github.com/RRoggia/segredos-ninja-javascript/blob/e32ad9a19813a0c123ed64578e7d230c9be833ac/chapter4/Recursion.html)
+* [Embedded Function](https://github.com/RRoggia/segredos-ninja-javascript/blob/f28da84bdbb1cea40d85d60bb55ba38d7fa53a15/chapter4/EmbeddedFunction.html)
+* [Recursion with callee](https://github.com/RRoggia/segredos-ninja-javascript/blob/b7270e26b1c21d61d95cb7fd9001dc7b5de57d4f/chapter4/Callee.html)
