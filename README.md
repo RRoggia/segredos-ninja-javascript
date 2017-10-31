@@ -24,3 +24,4 @@
 * [Recursion with callee](https://github.com/RRoggia/segredos-ninja-javascript/blob/b7270e26b1c21d61d95cb7fd9001dc7b5de57d4f/chapter4/Callee.html)
 * [Property in function](https://github.com/RRoggia/segredos-ninja-javascript/blob/8a8fb88c36d8013759a0ac4ca7e010a8f45a2d9f/chapter4/CachingFunction.html)
 * [Caching in function](https://github.com/RRoggia/segredos-ninja-javascript/blob/443e45c80b2106ddd92ac41d9bf2c8ebb85a9ce1/chapter4/isPrime.html)
+* [Hijack Array Methods](https://github.com/RRoggia/segredos-ninja-javascript/blob/f0adf0345bf1a57d51edabf96917be4c9978599e/chapter4/HijackArrayMethods.html)
