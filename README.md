@@ -25,3 +25,4 @@
 * [Property in function](https://github.com/RRoggia/segredos-ninja-javascript/blob/8a8fb88c36d8013759a0ac4ca7e010a8f45a2d9f/chapter4/CachingFunction.html)
 * [Caching in function](https://github.com/RRoggia/segredos-ninja-javascript/blob/443e45c80b2106ddd92ac41d9bf2c8ebb85a9ce1/chapter4/isPrime.html)
 * [Hijack Array Methods](https://github.com/RRoggia/segredos-ninja-javascript/blob/f0adf0345bf1a57d51edabf96917be4c9978599e/chapter4/HijackArrayMethods.html)
+* [Min and Max Generic for Arrays](https://github.com/RRoggia/segredos-ninja-javascript/blob/821c7cfacab618b62e7a7344a4989a6711a57a66/chapter4/MinAndMaxGenericArray.html)
