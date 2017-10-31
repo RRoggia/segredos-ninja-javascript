@@ -26,5 +26,5 @@
 * [Caching in function](https://github.com/RRoggia/segredos-ninja-javascript/blob/443e45c80b2106ddd92ac41d9bf2c8ebb85a9ce1/chapter4/isPrime.html)
 * [Hijack Array Methods](https://github.com/RRoggia/segredos-ninja-javascript/blob/f0adf0345bf1a57d51edabf96917be4c9978599e/chapter4/HijackArrayMethods.html)
 * [Min and Max Generic for Arrays](https://github.com/RRoggia/segredos-ninja-javascript/blob/821c7cfacab618b62e7a7344a4989a6711a57a66/chapter4/MinAndMaxGenericArray.html)
-* [DynamicNumberOfArguments](https://github.com/RRoggia/segredos-ninja-javascript/blob/de32c2fc39b466d60e5ba21d71cbf39a4617e866/chapter4/DynamicNumberOfArguments.html)
-* [DecomposeArgumentsList](https://github.com/RRoggia/segredos-ninja-javascript/blob/e0bb22d6ab336bdcf6836c33eca62047379ec452/chapter4/DecomposeArgumentsList.html)
+* [Dynamic Number Of Arguments](https://github.com/RRoggia/segredos-ninja-javascript/blob/de32c2fc39b466d60e5ba21d71cbf39a4617e866/chapter4/DynamicNumberOfArguments.html)
+* [Decompose Arguments List](https://github.com/RRoggia/segredos-ninja-javascript/blob/e0bb22d6ab336bdcf6836c33eca62047379ec452/chapter4/DecomposeArgumentsList.html)
