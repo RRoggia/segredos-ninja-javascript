@@ -28,3 +28,6 @@
 * [Min and Max Generic for Arrays](https://github.com/RRoggia/segredos-ninja-javascript/blob/821c7cfacab618b62e7a7344a4989a6711a57a66/chapter4/MinAndMaxGenericArray.html)
 * [Dynamic Number Of Arguments](https://github.com/RRoggia/segredos-ninja-javascript/blob/de32c2fc39b466d60e5ba21d71cbf39a4617e866/chapter4/DynamicNumberOfArguments.html)
 * [Decompose Arguments List](https://github.com/RRoggia/segredos-ninja-javascript/blob/e0bb22d6ab336bdcf6836c33eca62047379ec452/chapter4/DecomposeArgumentsList.html)
+
+# Chapter 5
+* [A simple Closure](https://github.com/RRoggia/segredos-ninja-javascript/blob/24a9b25bb5336b1d8a7c0ba37b684b943dc3253a/chapter5/ASimpleClosure.html)
