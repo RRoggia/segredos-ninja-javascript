@@ -5,13 +5,21 @@
 	<script src="../testSuite.js"></script>
 	<script>
 		window.onload = function() { 
-			var outerValue = "ninja"			;
+			var outerValue = "ninja";
+			var later;
 
 			function outerFunction(){
-				assert(outerValue == "ninja", "I can see the ninja");
+				var innerValue = "samurai";
+
+				function innerFunction(){
+					assert(outerValue == "ninja", "I can see the ninja");
+					assert(innerValue == "samurai", "I can see the samurai");
+				}
+				later = innerFunction;
 			}
 
 			outerFunction();
+			later();
 		};
 	</script>
 	<style>
