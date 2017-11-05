@@ -31,3 +31,5 @@
 
 # Chapter 5
 * [A simple Closure](https://github.com/RRoggia/segredos-ninja-javascript/blob/24a9b25bb5336b1d8a7c0ba37b684b943dc3253a/chapter5/ASimpleClosure.html)
+* [Not So Simple Closure](https://github.com/RRoggia/segredos-ninja-javascript/blob/63d40de1c0a140a91700926550d74c1450cd417f/chapter5/ASimpleClosure.html)
+* [What Else Closures can see](https://github.com/RRoggia/segredos-ninja-javascript/blob/1d00d8027db706e97a1ae28902dc11673683ba7d/chapter5/ASimpleClosure.html)
