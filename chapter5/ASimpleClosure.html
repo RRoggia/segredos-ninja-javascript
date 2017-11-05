@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>A simple closure</title>
+	<script src="../testSuite.js"></script>
+	<script>
+		window.onload = function() { 
+			var outerValue = "ninja"			;
+
+			function outerFunction(){
+				assert(outerValue == "ninja", "I can see the ninja");
+			}
+
+			outerFunction();
+		};
+	</script>
+	<style>
+		#results li.pass {color: green;}
+		#results li.fail {color: red;}
+	</style>
+</head>
+<body>
+	<ul id="results"></ul>
+</body>
+</html>
