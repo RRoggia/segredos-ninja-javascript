@@ -33,3 +33,6 @@
 * [A simple Closure](https://github.com/RRoggia/segredos-ninja-javascript/blob/24a9b25bb5336b1d8a7c0ba37b684b943dc3253a/chapter5/ASimpleClosure.html)
 * [Not So Simple Closure](https://github.com/RRoggia/segredos-ninja-javascript/blob/63d40de1c0a140a91700926550d74c1450cd417f/chapter5/ASimpleClosure.html)
 * [What Else Closures can see](https://github.com/RRoggia/segredos-ninja-javascript/blob/1d00d8027db706e97a1ae28902dc11673683ba7d/chapter5/ASimpleClosure.html)
+* [Private Attributes with closure](https://github.com/RRoggia/segredos-ninja-javascript/blob/e6df748dd8c8dd7e7d4a2ddacc0924ac099c7314/chapter5/PrivateAttributes.html)
+* [Closure in a callback](https://github.com/RRoggia/segredos-ninja-javascript/blob/9ad4422ca0b0445eb60202c3cddcc3c758857d34/chapter5/AjaxCall.html)
+* [Animate Text](https://github.com/RRoggia/segredos-ninja-javascript/blob/5026bd6569da1b0ee67986265d44622ada754c49/chapter5/AnimateText.html)
