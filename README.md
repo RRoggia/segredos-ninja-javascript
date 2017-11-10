@@ -36,3 +36,6 @@
 * [Private Attributes with closure](https://github.com/RRoggia/segredos-ninja-javascript/blob/e6df748dd8c8dd7e7d4a2ddacc0924ac099c7314/chapter5/PrivateAttributes.html)
 * [Closure in a callback](https://github.com/RRoggia/segredos-ninja-javascript/blob/9ad4422ca0b0445eb60202c3cddcc3c758857d34/chapter5/AjaxCall.html)
 * [Animate Text](https://github.com/RRoggia/segredos-ninja-javascript/blob/5026bd6569da1b0ee67986265d44622ada754c49/chapter5/AnimateText.html)
+* [Context To Callback Functions](https://github.com/RRoggia/segredos-ninja-javascript/blob/cabdeab85e977159b00546acdc5583e95d8cab45/chapter5/SpecificContextToFunction.html)
+* [Context To Callback Functions pt2](https://github.com/RRoggia/segredos-ninja-javascript/blob/bbc1caae9c9548ef5a7e529f154a411952d611db/chapter5/SpecificContextToFunction.html)
+* [Function Bind](https://github.com/RRoggia/segredos-ninja-javascript/blob/9d743b06a4c645d9cecc19113b258174a52cd0ea/chapter5/PrototypeBind.html)
